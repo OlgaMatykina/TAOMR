@@ -1,5 +1,6 @@
-# TAOMR
-TAOMR (Traversable Area Objects for Mobile Robotics) Dataset
+# TAOMR (Traversable Area Objects for Mobile Robotics)
+
+TAOMR-Open Dataset
 
 You can find images and annotations [here](https://disk.yandex.ru/d/jgPVF8LYohKM5g)
 
