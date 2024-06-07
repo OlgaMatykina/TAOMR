@@ -8,4 +8,4 @@ Distribution of data over categories
 ![](https://github.com/OlgaMatykina/TAOMR/blob/main/images/distribution.PNG)
 
 Overview of TAOMR-Open dataset
-![](https://github.com/OlgaMatykina/TAOMR/blob/main/images/dataset_vis.jpg)
+![](https://github.com/OlgaMatykina/TAOMR/blob/main/images/dataset_vis.png)
