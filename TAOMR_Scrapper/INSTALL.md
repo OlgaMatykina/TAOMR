@@ -7,4 +7,9 @@
     ```bash
     pip install -r requirements.txt
     ```
-- Install chromedriver.exe for version 125 
+- Install chromedriver.exe for version 125
+
+- Start scrapping
+    ```bash
+    python main.py
+    ```
