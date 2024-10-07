@@ -2,7 +2,7 @@
 
 TAOMR-Open Dataset
 
-You can find images and annotations [here](https://disk.yandex.ru/d/jgPVF8LYohKM5g)
+You can find images and annotations of TAOMR-Open [here](https://disk.yandex.ru/d/jgPVF8LYohKM5g). You can find annotations for NPO, INSTSnowRoadDetection, RoadObstalce21 datasets (included in TAOMR-Full) [here](https://disk.yandex.ru/d/gNKNWw91QfbRNA).
 
 You can use our script for scrapping images, see [Installation](https://github.com/OlgaMatykina/TAOMR/blob/main/TAOMR_Scrapper/INSTALL.md)
 
