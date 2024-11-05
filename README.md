@@ -9,7 +9,7 @@ You can use our script for scrapping images, see [Installation](https://github.c
 [Demo](https://github.com/OlgaMatykina/TAOMR/blob/main/Grounded_HQ_SAM_demo.ipynb) Grounding-DINO and HQ-SAM
 
 Distribution of data over categories
-![](https://github.com/OlgaMatykina/TAOMR/blob/main/images/distribution.PNG)
+![](https://github.com/OlgaMatykina/TAOMR/blob/main/images/distribution_per_sources.PNG)
 
 Overview of TAOMR-Open dataset
 ![](https://github.com/OlgaMatykina/TAOMR/blob/main/images/dataset_vis.png)
